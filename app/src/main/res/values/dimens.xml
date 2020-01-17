@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="repo_item_margin">5dp</dimen>
+    <dimen name="back_btn_size">44dp</dimen>
+    <dimen name="action_bar_height">75dp</dimen>
+    <dimen name="action_bar_logo_size">50dp</dimen>
+</resources>
