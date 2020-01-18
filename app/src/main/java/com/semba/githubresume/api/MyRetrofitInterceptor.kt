@@ -23,7 +23,7 @@ class MyRetrofitInterceptor : Interceptor {
         request = request.newBuilder()
             .addHeader("Accept",accept)
             .addHeader("Content-Type",content)
-            .addHeader("Authorization", "token ${Constants.API_KEY}")
+            .addHeader("Authorization", "token ${Constants.API_KEY_P1}${Constants.API_KEY_P2}")
             .url(httpUrl)
             .build()
 
