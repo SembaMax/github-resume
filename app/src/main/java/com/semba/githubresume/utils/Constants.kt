@@ -5,6 +5,6 @@ package com.semba.githubresume.utils
  */
 object Constants {
 
-    const val API_KEY = "d8fe971d67ff167a5e5da6c2ef364dd8c900411a"
+    const val API_KEY = "0ac5a8c53eec55cc5af3925e6861238e8c515253"
     const val ERROR = "Something went wrong"
 }
